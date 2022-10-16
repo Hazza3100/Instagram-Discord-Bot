@@ -4,9 +4,9 @@ Instagram discord bot based on my aio
 
 ```
 [X] Follow Command
-[] Unfollow Command
-[] Like Command
-[] Comment Command
+[X] Unfollow Command
+[X] Like Command
+[X] Comment Command
 ```
 
 
