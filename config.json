@@ -1,0 +1,14 @@
+{
+    "Config": {
+        "token": "DISCORD BOT TOKEN",
+        "prefix": ".",
+        "color": 15548997,
+        "channel_1": 1001564640393826535,
+        "channel_2": 1001564640393826535
+    },
+
+    "Roles": {
+        "Sandwich": 20,
+        "Member": 10
+    }
+}
